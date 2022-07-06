@@ -3,4 +3,4 @@ authors = ["Yuval Adam"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Rust Radio"
+title = "Rust Radio Documentation"

@@ -1,3 +1,7 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[Introduction](intro.md)
+
+- [Background](background.md)
+- [Design](design.md)
+- [References](references.md)
